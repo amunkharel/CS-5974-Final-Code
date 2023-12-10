@@ -2,7 +2,7 @@
 
 
 
-For [CNN Model inside CNN model]
+For [CNN Model]
 
 After cloning the repository, it is necessary to setup the data repoistory in the correct place in order
 for each script to run.
